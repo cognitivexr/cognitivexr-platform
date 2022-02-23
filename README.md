@@ -23,3 +23,9 @@ Highlighted components are part of the platform.
 <p align="center">
   <img src="https://raw.githubusercontent.com/cognitivexr/cognitivexr-platform/master/images/cognitivexr-platform.png" alt="CognitiveXR Platform Components">
 </p>
+
+
+## License
+
+* Code: Apache 2.0
+* Documentation and READMEs: CC-BY-SA-4.0
